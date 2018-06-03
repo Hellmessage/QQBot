@@ -1,0 +1,11 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '192.168.43.104'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\Hell\Source\Repos\QQBot\QQBot\QQBot\main.cpp(7,34): warning : ‘Http’ is used uninitialized in this function [-Wuninitialized]
+C:\Users\Hell\Source\Repos\QQBot\QQBot\QQBot\main.cpp(7,34): warning :   Http->DebugOut("12313","111111");
+C:\Users\Hell\Source\Repos\QQBot\QQBot\QQBot\main.cpp(7,34): warning :                                   ^
+  Linking objects
+  QQBot.vcxproj -> C:\Users\Hell\Source\Repos\QQBot\QQBot\QQBot\bin\x64\Debug\QQBot.out
